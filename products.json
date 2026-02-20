@@ -22,9 +22,24 @@
     {"id":"prod-7aa17f87-016","name":"Standard Item 16","category":"clothing","price":396.7,"stock":91,"rating":3.1}
   ],
   "aggregations": {
-    "clothing": {
-      "count": 4,
-      "inventoryValue": 131836.56
-    }
+  "clothing": {
+    "count": 4,
+    "inventoryValue": 131836.56
+  },
+  "electronics": {
+    "count": 3,
+    "inventoryValue": 158160.93
+  },
+  "sports": {
+    "count": 4,
+    "inventoryValue": 83992.49
+  },
+  "books": {
+    "count": 2,
+    "inventoryValue": 102950.64
+  },
+  "home": {
+    "count": 3,
+    "inventoryValue": 39790.10
   }
 }
